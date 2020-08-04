@@ -1,0 +1,3 @@
+to compile the server you should use make server
+to compile the client you shoul use make client
+you can also use the command make clean to clean all the .o file you created

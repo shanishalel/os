@@ -1,0 +1,5 @@
+to check if the pid exists or have permission :
+1. make check_pid
+2. ./check_pid <num_of_pid>
+
+you can also make clean (to clean all the files you created)
