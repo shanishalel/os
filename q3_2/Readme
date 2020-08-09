@@ -1,0 +1,2 @@
+to compile the set_policy.c type make all or make set_policy 
+to run the o files type ./set_policy
