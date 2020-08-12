@@ -1,0 +1,5 @@
+to run set_policy:
+1.to compile the set_policy.c type "make all" or "make set_policy"
+2.type sudo ./set_policy <num_policy> <num_priority>
+
+to clean the o files you can use "make clean"

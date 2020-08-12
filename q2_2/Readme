@@ -1,0 +1,9 @@
+to run the code use the next order:
+1.open 2 terminals
+2. compile the server using "make server"
+3. run ./server
+4.comile the client using "make client"
+5.run ./client <pid_server> (you get the pid by runnig the server)  <signal_num> <num_of_signals>
+6. run ./client <pid_server> <signal_num> <num_of_signals>
+
+you can also use the command make clean to clean all the .o file you created

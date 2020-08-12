@@ -1,0 +1,4 @@
+to run the code:
+1. to compile the dir_traversal.c you should type "make all" or "make dir_traversal"
+2. run the file ./dir_traversal <name_folder>
+you can also type "make clean" to remove all the o files you create 
