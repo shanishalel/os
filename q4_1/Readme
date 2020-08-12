@@ -1,2 +1,0 @@
-to compile the dir_traversal.c you should type make all or make dir_traversal.
-you can also make clean to remove all the o files you create 
